@@ -1,0 +1,31 @@
+{
+    "choices": [
+        {
+            "color": "#3887D6",
+            "title": "Conservative",
+            "value": 42.4
+        },
+        {
+            "color": "#D22D41",
+            "title": "Labour",
+            "value": 40.0
+        },
+        {
+            "color": "#b2ab6e",
+            "title": "SNP",
+            "value": 3.0
+        },
+        {
+            "color": "#EFA941",
+            "title": "Liberal Democrats",
+            "value": 7.9
+        },
+        {
+            "color": "#DDDDDD",
+            "value": 6.7
+        }
+    ],
+    "title": "2017 United Kingdom general election",
+    "turnout": 70.3,
+    "url": "https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election"
+}

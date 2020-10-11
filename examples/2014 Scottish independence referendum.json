@@ -1,0 +1,17 @@
+{
+    "choices": [
+        {
+            "color": "#B5251D",
+            "title": "NO",
+            "value": 2001926
+        },
+        {
+            "color": "#689A36",
+            "title": "YES",
+            "value": 1617989
+        }
+    ],
+    "title": "2014 Scottish independence referendum",
+    "total": 4283392,
+    "url": "https://en.wikipedia.org/wiki/2014_Scottish_independence_referendum"
+}

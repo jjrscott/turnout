@@ -1,0 +1,17 @@
+{
+    "choices": [
+        {
+            "color": "#377D22",
+            "title": "Aye",
+            "value": 412
+        },
+        {
+            "color": "#EB3323",
+            "title": "No",
+            "value": 149
+        }
+    ],
+    "title": "British Parliamentary approval for the invasion of Iraq",
+    "total": 659,
+    "url": "https://en.wikipedia.org/wiki/British_Parliamentary_approval_for_the_invasion_of_Iraq"
+}

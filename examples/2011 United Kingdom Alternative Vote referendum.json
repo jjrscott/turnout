@@ -1,0 +1,17 @@
+{
+    "choices": [
+        {
+            "color": "#E02020",
+            "title": "NO",
+            "value": 13013123
+        },
+        {
+            "color": "#5EB700",
+            "title": "YES",
+            "value": 6152607
+        }
+    ],
+    "title": "2011 United Kingdom Alternative Vote referendum",
+    "total": 45684501,
+    "url": "https://en.wikipedia.org/wiki/2011_United_Kingdom_Alternative_Vote_referendum"
+}

@@ -1,0 +1,17 @@
+{
+    "choices": [
+        {
+            "color": "#0069B5",
+            "title": "Leave",
+            "value": 17410742
+        },
+        {
+            "color": "#FBC821",
+            "title": "Remain",
+            "value": 16141241
+        }
+    ],
+    "title": "2016 United Kingdom European Union membership referendum",
+    "total": 46500001,
+    "url": "https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum"
+}

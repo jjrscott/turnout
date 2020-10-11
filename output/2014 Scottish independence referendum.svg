@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <svg viewBox="0 0 400 400"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+        <defs>
+          <mask id="border"><rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="white" rx="3.333333333333333" /></mask>
+          <mask id="turnout"><rect x="0" y="0" width="315.0349224788828" height="400" fill="white" /></mask>
+          <mask id="absent"><rect x="315.0349224788828" y="0" width="84.96507752111722" height="400" fill="white" /></mask>
+        </defs>
+
+        <rect width="400" height="400" fill="#F2F2F2" />
+
+
+    <text x="200.0" y="16.66666666666667" text-anchor="middle" font-size="16.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2014 Scottish independence referendum</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(16.66666666666667 200.0) rotate(-90)" font-size="6.0" dominant-baseline="middle" letter-spacing="1.6666666666666665" fill="#484848" font-family="sans-serif">VOTE SHARE</text>
+<text x="200.0" y="383.3333333333333" text-anchor="middle" font-size="6.0" dominant-baseline="middle" letter-spacing="1.6666666666666665" fill="#484848" font-family="sans-serif">TURNOUT</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(383.3333333333333 200.0) rotate(-90)" font-size="6.0" dominant-baseline="middle" fill="#484848" font-family="sans-serif">Graphics by jjrscott</text>
+<rect x="33.33333333333334" y="33.33333333333334" width="281.7015891455494" height="184.34373919461277" fill="#B5251D" mask="url(#border)" />
+<text x="174.18412790610807" y="125.50520293063973" chart-padding="33.33333333333334" text-anchor="middle" font-size="12.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">NO</text>
+<rect x="33.33333333333334" y="217.6770725279461" width="281.7015891455494" height="148.98959413872058" fill="#689A36" mask="url(#border)" />
+<text x="174.18412790610807" y="292.1718695973064" chart-padding="33.33333333333334" text-anchor="middle" font-size="12.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">YES</text>
+<rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="none" rx="3.333333333333333" stroke-width="2.0" stroke="#484848" mask="url(#turnout)" />
+<rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="none" rx="3.333333333333333" stroke-width="2.0" stroke="#484848" stroke-dasharray="3.333333333333333 3.333333333333333" mask="url(#absent)" />
+</svg>

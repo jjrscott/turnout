@@ -1,0 +1,27 @@
+{
+    "choices": [
+        {
+            "color": "#0287DC",
+            "title": "Paul Holmes",
+            "value": 55.4
+        },
+        {
+            "color": "#FAA619",
+            "title": "Lynda Murphy",
+            "value": 29.0
+        },
+        {
+            "color": "#E4013B",
+            "title": "Sam Jordan",
+            "value": 12.8
+        },
+        {
+            "color": "#6BB024",
+            "title": "Ron Meldrum",
+            "value": 2.8
+        }
+    ],
+    "title": "General election 2019: Eastleigh",
+    "turnout": 70.3,
+    "url": "https://en.wikipedia.org/wiki/Eastleigh_(UK_Parliament_constituency)#Elections_in_the_2010s"
+}

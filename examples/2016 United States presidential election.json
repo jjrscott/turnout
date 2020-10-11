@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "color": "#E81B22",
+            "title": "Donald Trump",
+            "value": 46.1
+        },
+        {
+            "color": "#00AEF3",
+            "title": "Hillary Clinton",
+            "value": 48.2
+        },
+        {
+            "color": "#F7BA11",
+            "value": 5.7
+        }
+    ],
+    "title": "2016 United States presidential election",
+    "turnout": 55.7,
+    "url": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election"
+}
