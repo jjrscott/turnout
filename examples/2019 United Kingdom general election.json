@@ -1,0 +1,32 @@
+{
+    "choices": [
+        {
+            "color": "#5EB5F9",
+            "title": "Conservatives",
+            "value": 13.9
+        },
+        {
+            "color": "#ED635E",
+            "title": "Labour",
+            "value": 10.3
+        },
+        {
+            "color": "#F5BE6A",
+            "title": "Lib Dems",
+            "value": 3.7
+        },
+        {
+            "color": "#CEE077",
+            "title": "SNP / Plaid",
+            "value": 1.4
+        },
+        {
+            "color": "#9B9A9A",
+            "title": "Other",
+            "value": 2.7
+        }
+    ],
+    "title": "2019 United Kingdom general election",
+    "total": 47.5,
+    "url": "https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election"
+}

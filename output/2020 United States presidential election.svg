@@ -3,21 +3,22 @@
 
         <defs>
           <mask id="border"><rect x="50.0" y="50.0" width="500.0" height="500.0" fill="white" rx="5.0" /></mask>
-          <mask id="turnout"><rect x="0" y="0" width="472.55238371832417" height="600" fill="white" /></mask>
-          <mask id="absent"><rect x="472.55238371832417" y="0" width="127.44761628167583" height="600" fill="white" /></mask>
+          <mask id="turnout"><rect x="0" y="0" width="383.5" height="600" fill="white" /></mask>
+          <mask id="absent"><rect x="383.5" y="0" width="216.5" height="600" fill="white" /></mask>
         </defs>
 
         <rect width="600" height="600" fill="#F2F2F2" />
 
 
-    <text x="300.0" y="25.0" text-anchor="middle" font-size="24.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2014 Scottish independence referendum</text>
+    <text x="300.0" y="25.0" text-anchor="middle" font-size="24.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2020 United States presidential election</text>
 <text x="0" y="0" text-anchor="middle" transform="translate(25.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">VOTE SHARE</text>
 <text x="300.0" y="575.0" text-anchor="middle" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">TURNOUT</text>
 <text x="0" y="0" text-anchor="middle" transform="translate(575.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" fill="#484848" font-family="sans-serif">Graphics by jjrscott</text>
-<rect x="50.0" y="50.0" width="422.55238371832417" height="276.5156087919192" fill="#B5251D" mask="url(#border)" />
-<text x="261.27619185916205" y="188.2578043959596" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">NO</text>
-<rect x="50.0" y="326.5156087919192" width="422.55238371832417" height="223.48439120808086" fill="#689A36" mask="url(#border)" />
-<text x="261.27619185916205" y="438.2578043959596" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">YES</text>
+<rect x="50.0" y="50.0" width="333.5" height="256.5" fill="#00AEF3" mask="url(#border)" />
+<text x="216.75" y="178.25" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Joe Biden</text>
+<rect x="50.0" y="306.5" width="333.5" height="234.0" fill="#E81B22" mask="url(#border)" />
+<text x="216.75" y="423.5" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Donald Trump</text>
+<rect x="50.0" y="540.5" width="333.5" height="9.5" fill="#F7BA11" mask="url(#border)" />
 <rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" mask="url(#turnout)" />
 <rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" stroke-dasharray="5.0 5.0" mask="url(#absent)" />
 </svg>

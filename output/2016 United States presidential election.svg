@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <svg viewBox="0 0 400 400"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg viewBox="0 0 600 600"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
         <defs>
-          <mask id="border"><rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="white" rx="3.333333333333333" /></mask>
-          <mask id="turnout"><rect x="0" y="0" width="219.00000000000003" height="400" fill="white" /></mask>
-          <mask id="absent"><rect x="219.00000000000003" y="0" width="180.99999999999997" height="400" fill="white" /></mask>
+          <mask id="border"><rect x="50.0" y="50.0" width="500.0" height="500.0" fill="white" rx="5.0" /></mask>
+          <mask id="turnout"><rect x="0" y="0" width="328.5" height="600" fill="white" /></mask>
+          <mask id="absent"><rect x="328.5" y="0" width="271.5" height="600" fill="white" /></mask>
         </defs>
 
-        <rect width="400" height="400" fill="#F2F2F2" />
+        <rect width="600" height="600" fill="#F2F2F2" />
 
 
-    <text x="200.0" y="16.66666666666667" text-anchor="middle" font-size="16.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2016 United States presidential election</text>
-<text x="0" y="0" text-anchor="middle" transform="translate(16.66666666666667 200.0) rotate(-90)" font-size="6.0" dominant-baseline="middle" letter-spacing="1.6666666666666665" fill="#484848" font-family="sans-serif">VOTE SHARE</text>
-<text x="200.0" y="383.3333333333333" text-anchor="middle" font-size="6.0" dominant-baseline="middle" letter-spacing="1.6666666666666665" fill="#484848" font-family="sans-serif">TURNOUT</text>
-<text x="0" y="0" text-anchor="middle" transform="translate(383.3333333333333 200.0) rotate(-90)" font-size="6.0" dominant-baseline="middle" fill="#484848" font-family="sans-serif">Graphics by jjrscott</text>
-<rect x="33.33333333333334" y="33.33333333333334" width="185.66666666666669" height="153.66666666666666" fill="#E81B22" mask="url(#border)" />
-<text x="126.16666666666669" y="110.16666666666667" chart-padding="33.33333333333334" text-anchor="middle" font-size="12.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Donald Trump</text>
-<rect x="33.33333333333334" y="187.0" width="185.66666666666669" height="160.66666666666666" fill="#00AEF3" mask="url(#border)" />
-<text x="126.16666666666669" y="267.3333333333333" chart-padding="33.33333333333334" text-anchor="middle" font-size="12.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Hillary Clinton</text>
-<rect x="33.33333333333334" y="347.66666666666663" width="185.66666666666669" height="19.0" fill="#F7BA11" mask="url(#border)" />
-<rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="none" rx="3.333333333333333" stroke-width="2.0" stroke="#484848" mask="url(#turnout)" />
-<rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="none" rx="3.333333333333333" stroke-width="2.0" stroke="#484848" stroke-dasharray="3.333333333333333 3.333333333333333" mask="url(#absent)" />
+    <text x="300.0" y="25.0" text-anchor="middle" font-size="24.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2016 United States presidential election</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(25.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">VOTE SHARE</text>
+<text x="300.0" y="575.0" text-anchor="middle" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">TURNOUT</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(575.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" fill="#484848" font-family="sans-serif">Graphics by jjrscott</text>
+<rect x="50.0" y="50.0" width="278.5" height="230.5" fill="#E81B22" mask="url(#border)" />
+<text x="189.25" y="165.25" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Donald Trump</text>
+<rect x="50.0" y="280.5" width="278.5" height="241.00000000000003" fill="#00AEF3" mask="url(#border)" />
+<text x="189.25" y="401.0" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Hillary Clinton</text>
+<rect x="50.0" y="521.5" width="278.5" height="28.5" fill="#F7BA11" mask="url(#border)" />
+<rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" mask="url(#turnout)" />
+<rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" stroke-dasharray="5.0 5.0" mask="url(#absent)" />
 </svg>

@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "color": "#00AEF3",
+            "title": "Joe Biden",
+            "value": 51.3
+        },
+        {
+            "color": "#E81B22",
+            "title": "Donald Trump",
+            "value": 46.8
+        },
+        {
+            "color": "#F7BA11",
+            "value": 1.9
+        }
+    ],
+    "title": "2020 United States presidential election",
+    "turnout": 66.7,
+    "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election"
+}

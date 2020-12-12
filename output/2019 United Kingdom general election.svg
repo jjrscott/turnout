@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <svg viewBox="0 0 600 600"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+        <defs>
+          <mask id="border"><rect x="50.0" y="50.0" width="500.0" height="500.0" fill="white" rx="5.0" /></mask>
+          <mask id="turnout"><rect x="0" y="0" width="386.84210526315786" height="600" fill="white" /></mask>
+          <mask id="absent"><rect x="386.84210526315786" y="0" width="213.15789473684214" height="600" fill="white" /></mask>
+        </defs>
+
+        <rect width="600" height="600" fill="#F2F2F2" />
+
+
+    <text x="300.0" y="25.0" text-anchor="middle" font-size="24.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2019 United Kingdom general election</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(25.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">VOTE SHARE</text>
+<text x="300.0" y="575.0" text-anchor="middle" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">TURNOUT</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(575.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" fill="#484848" font-family="sans-serif">Graphics by jjrscott</text>
+<rect x="50.0" y="50.0" width="336.84210526315786" height="217.1875" fill="#5EB5F9" mask="url(#border)" />
+<text x="218.42105263157893" y="158.59375" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Conservatives</text>
+<rect x="50.0" y="267.1875" width="336.84210526315786" height="160.9375" fill="#ED635E" mask="url(#border)" />
+<text x="218.42105263157893" y="347.65625" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Labour</text>
+<rect x="50.0" y="428.125" width="336.84210526315786" height="57.8125" fill="#F5BE6A" mask="url(#border)" />
+<text x="218.42105263157893" y="457.03125" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Lib Dems</text>
+<rect x="50.0" y="485.9375" width="336.84210526315786" height="21.875" fill="#CEE077" mask="url(#border)" />
+<text x="218.42105263157893" y="496.875" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">SNP / Plaid</text>
+<rect x="50.0" y="507.8125" width="336.84210526315786" height="42.1875" fill="#9B9A9A" mask="url(#border)" />
+<text x="218.42105263157893" y="528.90625" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Other</text>
+<rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" mask="url(#turnout)" />
+<rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" stroke-dasharray="5.0 5.0" mask="url(#absent)" />
+</svg>

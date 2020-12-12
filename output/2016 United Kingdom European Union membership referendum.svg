@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <svg viewBox="0 0 400 400"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg viewBox="0 0 600 600"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
         <defs>
-          <mask id="border"><rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="white" rx="3.333333333333333" /></mask>
-          <mask id="turnout"><rect x="0" y="0" width="273.849335329405" height="400" fill="white" /></mask>
-          <mask id="absent"><rect x="273.849335329405" y="0" width="126.150664670595" height="400" fill="white" /></mask>
+          <mask id="border"><rect x="50.0" y="50.0" width="500.0" height="500.0" fill="white" rx="5.0" /></mask>
+          <mask id="turnout"><rect x="0" y="0" width="410.77400299410743" height="600" fill="white" /></mask>
+          <mask id="absent"><rect x="410.77400299410743" y="0" width="189.22599700589257" height="600" fill="white" /></mask>
         </defs>
 
-        <rect width="400" height="400" fill="#F2F2F2" />
+        <rect width="600" height="600" fill="#F2F2F2" />
 
 
-    <text x="200.0" y="16.66666666666667" text-anchor="middle" font-size="16.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2016 United Kingdom European Union membership referendum</text>
-<text x="0" y="0" text-anchor="middle" transform="translate(16.66666666666667 200.0) rotate(-90)" font-size="6.0" dominant-baseline="middle" letter-spacing="1.6666666666666665" fill="#484848" font-family="sans-serif">VOTE SHARE</text>
-<text x="200.0" y="383.3333333333333" text-anchor="middle" font-size="6.0" dominant-baseline="middle" letter-spacing="1.6666666666666665" fill="#484848" font-family="sans-serif">TURNOUT</text>
-<text x="0" y="0" text-anchor="middle" transform="translate(383.3333333333333 200.0) rotate(-90)" font-size="6.0" dominant-baseline="middle" fill="#484848" font-family="sans-serif">Graphics by jjrscott</text>
-<rect x="33.33333333333334" y="33.33333333333334" width="240.51600199607162" height="172.97280660480385" fill="#0069B5" mask="url(#border)" />
-<text x="153.59133433136918" y="119.81973663573527" chart-padding="33.33333333333334" text-anchor="middle" font-size="12.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Leave</text>
-<rect x="33.33333333333334" y="206.3061399381372" width="240.51600199607162" height="160.36052672852946" fill="#FBC821" mask="url(#border)" />
-<text x="153.59133433136918" y="286.4864033024019" chart-padding="33.33333333333334" text-anchor="middle" font-size="12.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Remain</text>
-<rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="none" rx="3.333333333333333" stroke-width="2.0" stroke="#484848" mask="url(#turnout)" />
-<rect x="33.33333333333334" y="33.33333333333334" width="333.3333333333333" height="333.3333333333333" fill="none" rx="3.333333333333333" stroke-width="2.0" stroke="#484848" stroke-dasharray="3.333333333333333 3.333333333333333" mask="url(#absent)" />
+    <text x="300.0" y="25.0" text-anchor="middle" font-size="24.0" font-weight="bold" dominant-baseline="middle" fill="#484848" font-family="sans-serif">2016 United Kingdom European Union membership referendum</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(25.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">VOTE SHARE</text>
+<text x="300.0" y="575.0" text-anchor="middle" font-size="9.0" dominant-baseline="middle" letter-spacing="2.5" fill="#484848" font-family="sans-serif">TURNOUT</text>
+<text x="0" y="0" text-anchor="middle" transform="translate(575.0 300.0) rotate(-90)" font-size="9.0" dominant-baseline="middle" fill="#484848" font-family="sans-serif">Graphics by jjrscott</text>
+<rect x="50.0" y="50.0" width="360.77400299410743" height="259.4592099072058" fill="#0069B5" mask="url(#border)" />
+<text x="230.38700149705372" y="179.7296049536029" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Leave</text>
+<rect x="50.0" y="309.4592099072058" width="360.77400299410743" height="240.54079009279423" fill="#FBC821" mask="url(#border)" />
+<text x="230.38700149705372" y="429.7296049536029" chart-padding="50.0" text-anchor="middle" font-size="18.0" dominant-baseline="middle" fill="#FFFFFFEE" font-weight="bold" font-family="sans-serif">Remain</text>
+<rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" mask="url(#turnout)" />
+<rect x="50.0" y="50.0" width="500.0" height="500.0" fill="none" rx="5.0" stroke-width="3.0" stroke="#484848" stroke-dasharray="5.0 5.0" mask="url(#absent)" />
 </svg>

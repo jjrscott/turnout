@@ -9,8 +9,8 @@ As can be seen below, while Hillary Clinton did win the popular vote, neither of
 ### Usage
 
 ```shell
-python3 turnout.py examples/*.json -output output -size 400
-qlmanage -t -s 400 -o output output/*.svg
+python3 turnout.py examples/*.json -output output -size 600
+qlmanage -t -s 600 -o output output/*.svg
 ```
 
 
